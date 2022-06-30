@@ -9,7 +9,7 @@ const Portfolio = () => {
   {
     id: 1,
     image: NC,
-    title: 'Netflix Clone',
+    title: 'Netflix Clone', 
     github: 'https://github.com/FEnrique/netflix-clone',
     demo: 'https://netflix-clone-vscode.web.app/'
   },
@@ -17,8 +17,8 @@ const Portfolio = () => {
     id: 2,
     image: EP,
     title: `Enrique's Portfolio`,
-    github: 'https://github.com/FEnrique/netflix-clone',
-    demo: 'https://netflix-clone-vscode.web.app/'
+    github: 'https://github.com/FEnrique/enrique-portfolio',
+    demo: 'https://enrique-frauendorf-portfolio.web.app/'
   }
 ]
 
